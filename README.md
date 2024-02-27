@@ -1,7 +1,6 @@
 ## <center> Hi there 🤙🏼 I'm [Rogerio Volgarine](https://volgarine.wordpress.com "Roger")</center>
 
-**`You can call me “Roger or Volga”. I’m Brazilian 🇧🇷 living in Calgary 🇨🇦 since Aug 2022. 
-I’m graduate in Business Administration and I'm in the process of career transition planning to enter the IT field as a JAVA backend programmer.`**
+**`You can call me “Roger or Volga”. I'm Brazilian 🇧🇷 and I've been living in Calgary 🇨🇦 since August 2022. I have a degree in Business Administration and I'm in the process of a career transition to enter the IT field as a JAVA backend programmer.`**
 
 
 
