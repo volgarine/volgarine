@@ -17,6 +17,3 @@
 ### 📊 Stats
 
 ![Volgarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=volgarine&show_icons=true&theme=gruvbox)
-
-
-<img align="center" src="https://media.licdn.com/dms/image/D5616AQHwnZu-ItmIDg/profile-displaybackgroundimage-shrink_350_1400/0/1706634321413?e=1714608000&v=beta&t=e2maJoU_AN_r24Und8IWd6HxT5hO6M_npDkOK1B6qbI"/>
