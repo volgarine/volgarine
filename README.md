@@ -8,11 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volgarine)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/RogerioVolgarine)
 
-
-
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/D5607AQHhQccJJuxk4A/group-logo_image-shrink_92x92/0/1708978063757?e=1709679600&v=beta&t=CqHrm4Y4VgTLpxKUmDXDVCNd-EwG9ws2sUvfGPyY1IY"/> 
-
-#### creator and moderator of the group "[Javeiros {🇨🇦}](https://www.linkedin.com/groups/12993136/ "Javeiros {🇨🇦}")" of Brazilian Java programmers in Canada.
+#
+<a href="https://www.linkedin.com/groups/12993136/">
+         <img alt="Javeiros Linkedin" title="Javeiros" width=50px style="padding-right:5px;" src="https://media.licdn.com/dms/image/D5607AQHhQccJJuxk4A/group-logo_image-shrink_92x92/0/1708978063757?e=1709679600&v=beta&t=CqHrm4Y4VgTLpxKUmDXDVCNd-EwG9ws2sUvfGPyY1IY"/></a> creator and moderator of the group <a href="https://www.linkedin.com/groups/12993136" target="_blank>">"Javeiros {🇨🇦}"</a> of Brazilian Java programmers in Canada.
 
 
 
