@@ -12,8 +12,17 @@
 <a href="https://www.linkedin.com/groups/12993136/" target="_blank">
          <img alt="Javeiros Linkedin" title="Javeiros" width=50px style="padding-right:5px;" src="https://media.licdn.com/dms/image/D5607AQHhQccJJuxk4A/group-logo_image-shrink_92x92/0/1708978063757?e=1709679600&v=beta&t=CqHrm4Y4VgTLpxKUmDXDVCNd-EwG9ws2sUvfGPyY1IY"/></a> creator and moderator of the group <a href="https://www.linkedin.com/groups/12993136" target="_blank>">"Javeiros {🇨🇦}"</a> of Brazilian Java programmers in Canada.
 
-
+#
 
 ### 📊 Stats
+<p align="center">
+  <a href="https://github.com/volgarine">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=volgarine&theme=merko&border_color=000000&bg_color=000000&title_color=88b04b&icon_color=88b04b" alt="Volgarine's GitHub Contribution"/>
+  </a>
+</p>
 
-![Volgarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=volgarine&show_icons=true&theme=gruvbox)
+<a> 
+    <a href="https://github.com/volgarine"><img alt="Volgarine's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=volgarine&show_icons=true&count_private=true&theme=merko&border_color=000000&bg_color=0D1117&title_color=88b04b&icon_color=88b04b" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/volgarine"><img alt="Volgarine's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=volgarine&langs_count=8&layout=compact&theme=merko&border_color=000000&bg_color=000000&title_color=88b04b&icon_color=88b04b" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
