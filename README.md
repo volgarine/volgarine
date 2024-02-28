@@ -18,7 +18,7 @@
 
 #
 <p align="center">
-I'm creator and moderator of the group <a href="https://www.linkedin.com/groups/12993136" target="_blank>">"Javeiros {🇨🇦}"</a> of Brazilian Java programmers in Canada
+I'm the creator and moderator of the group <a href="https://www.linkedin.com/groups/12993136" target="_blank>">"Javeiros {🇨🇦}"</a> of Brazilian Java programmers in Canada
 <a href="https://www.linkedin.com/groups/12993136/" target="_blank">
          <img alt="Javeiros Linkedin" title="Javeiros" width=50px style="padding-right:5px;" src="https://media.licdn.com/dms/image/D5607AQHhQccJJuxk4A/group-logo_image-shrink_92x92/0/1708978063757?e=1709679600&v=beta&t=CqHrm4Y4VgTLpxKUmDXDVCNd-EwG9ws2sUvfGPyY1IY"/></a> 
 </p>
