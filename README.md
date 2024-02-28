@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
----
 
 #
 <a href="https://www.linkedin.com/groups/12993136/" target="_blank">
