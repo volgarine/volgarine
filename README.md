@@ -3,10 +3,18 @@
 **`You can call me “Roger or Volga”. I'm Brazilian 🇧🇷 and I've been living in Calgary 🇨🇦 since August 2022. I have a degree in Business Administration and I'm in the process of a career transition to enter the IT field as a JAVA backend programmer.`**
 
 
+<p align="center">
+  <a href="https://www.volgarine.wordpress.com">
+    <img src="https://camo.githubusercontent.com/11efcae87c81cde0829db7f001cc273df78a1ec44e56b4ed269996c9fd5507da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d4443313433433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465"/>
+  </a>
+  <a href="https://www.linkedin.com/in/volgarine">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/in/rogeriovolgarine">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
 
-[![Website](https://camo.githubusercontent.com/11efcae87c81cde0829db7f001cc273df78a1ec44e56b4ed269996c9fd5507da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d4443313433433f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465)](https://www.volgarine.wordpress.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/volgarine)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/RogerioVolgarine)
 
 #
 <a href="https://www.linkedin.com/groups/12993136/" target="_blank">
