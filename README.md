@@ -34,6 +34,7 @@ I'm the creator and moderator of the group <a href="https://www.linkedin.com/gro
 
 <a> 
     <a href="https://github.com/volgarine"><img alt="Volgarine's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=volgarine&show_icons=true&count_private=true&theme=merko&border_color=000000&bg_color=0D1117&title_color=88b04b&icon_color=88b04b" height="192px" width="49.5%"/></a>
+  #
   <a href="https://github.com/volgarine"><img alt="Volgarine's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=volgarine&langs_count=8&layout=compact&theme=merko&border_color=000000&bg_color=000000&title_color=88b04b&icon_color=88b04b" height="192px" width="49.5%"/></a>
   <br/>
 </a>
